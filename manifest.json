@@ -5594,11 +5594,6 @@
       "size": 1314767
     },
     {
-      "path": "mods/mcef-neoforge-2.1.6-1.21.1.jar",
-      "sha256": "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772",
-      "size": 215373
-    },
-    {
       "path": "mods/modernfix-neoforge-5.27.7+mc1.21.1.jar",
       "sha256": "67626d9d0a4519877927fee22acb1ee213f850cd1a7ca6eb10182c09b8909e75",
       "size": 569178
@@ -5689,11 +5684,6 @@
       "size": 406699
     },
     {
-      "path": "mods/smoothchunk-1.21-4.1.jar",
-      "sha256": "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3",
-      "size": 12852
-    },
-    {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
       "size": 1162994
@@ -5747,11 +5737,6 @@
       "path": "mods/voicechat-neoforge-1.21.1-2.6.17.jar",
       "sha256": "0981cdb58e540722d68ba444dc4396e2467a8f0b2f346de55c68282c5671d70a",
       "size": 4902096
-    },
-    {
-      "path": "mods/WebDisplays-REMASTER-2.0.0.jar",
-      "sha256": "74f3150553bc1b0fc9f9f3964921eb5fc5fc886c6f5afe519cb425ebab76cc13",
-      "size": 941259
     },
     {
       "path": "mods/worldweaver-21.0.18.jar",
