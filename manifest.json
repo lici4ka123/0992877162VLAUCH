@@ -5289,19 +5289,9 @@
       "size": 701868
     },
     {
-      "path": "mods/bclib-21.0.20.jar",
-      "sha256": "412723f96aa195d9d96028eb97fa367f1f3c43078e504f4c545ad82bc37e49b2",
-      "size": 2151745
-    },
-    {
       "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
       "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca",
       "size": 193619
-    },
-    {
-      "path": "mods/BetterEnd-21.0.24.jar",
-      "sha256": "1005a2f6662f9a76962a6bdabdf108a00ed0396b5dd2173c49c1cbf02ed5891b",
-      "size": 93582315
     },
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
@@ -5739,16 +5729,6 @@
       "size": 4902096
     },
     {
-      "path": "mods/worldweaver-21.0.18.jar",
-      "sha256": "9a75b97ccd93dd348403526b8f24b34e55baf96477899468b3bab71e3779a9b2",
-      "size": 2156052
-    },
-    {
-      "path": "mods/wunderlib-21.0.10.jar",
-      "sha256": "b49c7a040f87ade1e3f73bd7335e8d68ff7a328919c192a6d2c022bae6786a2f",
-      "size": 378820
-    },
-    {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
       "size": 1118651
@@ -5767,11 +5747,6 @@
       "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
       "size": 782160
-    },
-    {
-      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
-      "size": 398130
     },
     {
       "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
