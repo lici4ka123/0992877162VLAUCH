@@ -1,5 +1,5 @@
 {
-  "version": "1790333407983",
+  "version": "1790333911366",
   "mcVersion": "1.21.1",
   "modpackName": "VLAUNCHER Server Pack",
   "files": [
@@ -5524,9 +5524,9 @@
       "size": 725742
     },
     {
-      "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
-      "sha256": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
-      "size": 1529391
+      "path": "mods/jei-1.21.1-neoforge-19.57.0.449.jar",
+      "sha256": "1bdd4471bc232bfbd8d262876593a9a9ac85f2e4966adbfa4348795c47ecf63e",
+      "size": 2252654
     },
     {
       "path": "mods/kotlinforforge-5.11.0-all.jar",
