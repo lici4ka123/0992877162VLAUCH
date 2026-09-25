@@ -1,5 +1,5 @@
 {
-  "version": "1790333911366",
+  "version": "1790335414727",
   "mcVersion": "1.21.1",
   "modpackName": "VLAUNCHER Server Pack",
   "files": [
@@ -5524,9 +5524,9 @@
       "size": 725742
     },
     {
-      "path": "mods/jei-1.21.1-neoforge-19.57.0.449.jar",
-      "sha256": "1bdd4471bc232bfbd8d262876593a9a9ac85f2e4966adbfa4348795c47ecf63e",
-      "size": 2252654
+      "path": "mods/jei-1.21.1-neoforge-19.32.0.359.jar",
+      "sha256": "0169e38d4771b1a0a6bd9fc92734297105fff2f6ad8a4ed73ad38139b824ea54",
+      "size": 1616910
     },
     {
       "path": "mods/kotlinforforge-5.11.0-all.jar",
@@ -5644,9 +5644,9 @@
       "size": 76369
     },
     {
-      "path": "mods/scholar-neoforge-1.21.1-1.2.6.jar",
-      "sha256": "8ec3b0fd32077031908fac2e4f496f0843f920a1ea748b69b014b2ef68f3eb4b",
-      "size": 929316
+      "path": "mods/scholar-neoforge-1.21.1-1.2.3.jar",
+      "sha256": "b8f5aa89e7e8d84b4a0a9d56637af5a6e3e1bc97189987bf2f85385024df0794",
+      "size": 922019
     },
     {
       "path": "mods/Scribble-1.5.1+mc1.21-neoforge.jar",
