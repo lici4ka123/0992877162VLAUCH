@@ -1,5 +1,5 @@
 {
-  "version": "1790525323510",
+  "version": "1790525906304",
   "mcVersion": "1.21.1",
   "modpackName": "VLAUNCHER Server Pack",
   "files": [
@@ -5304,6 +5304,11 @@
       "size": 1613264
     },
     {
+      "path": "mods/bpmelodies-neoforge-1.21.1-1.0.1.jar",
+      "sha256": "15559973e1a7922304c4b0466141c674d20fa3967d04648daf15ef50575cfa22",
+      "size": 105069
+    },
+    {
       "path": "mods/Camerapture-1.10.12+mc1.21.1-neoforge.jar",
       "sha256": "053e003d136876bbde786a701e504495a47e48cf3cd176d2ab29120ce99d92d2",
       "size": 1977667
@@ -5612,6 +5617,11 @@
       "path": "mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "sha256": "ac48316842b478777cead0a39e7c8a51810ffa1d848d8ad8f3f56d03eedc5549",
       "size": 1938281
+    },
+    {
+      "path": "mods/onlinejoinedingame-1.0.0.jar",
+      "sha256": "823ddd1de5fb3e4b02feffe13ef727d500c06cb028b20347479b7b8148b8c611",
+      "size": 15202
     },
     {
       "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
