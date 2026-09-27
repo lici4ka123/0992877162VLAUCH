@@ -1,5 +1,5 @@
 {
-  "version": "1790525906304",
+  "version": "1790527169286",
   "mcVersion": "1.21.1",
   "modpackName": "VLAUNCHER Server Pack",
   "files": [
@@ -5437,11 +5437,6 @@
       "path": "mods/escalated-1.3.1-mc.1.21.1.jar",
       "sha256": "cf2de1ac5439e72a7020ba7ad42ea5b0e225b0fbaaa4ca941913e74c77ea582b",
       "size": 512511
-    },
-    {
-      "path": "mods/extrapotions-1.21.1-1.5.jar",
-      "sha256": "28d2c9d418d749654f7b279381325c9aa702e26cbe751e43e55428eef01a73f2",
-      "size": 48083
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.3.1.jar",
